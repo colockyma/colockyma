@@ -1010,7 +1010,7 @@ p {
 }
 
 main.main-06 {
-  background: #0A0A0A;
+  background: #fff;
   overflow: hidden;
 }
 
@@ -1034,7 +1034,7 @@ main .header.header-06 {
 }
 
 main .header.header-06 .header-right a {
-  color: #fff;
+  color: #0A0A0A; 
   font-size: 20px;
   font-family: "Space Mono", sans-serif;
 }
@@ -1054,7 +1054,7 @@ main .main-wrapper.demo-06 .hero-area {
 main .main-wrapper.demo-06 .hero-area h1 {
   font-size: 100px;
   font-weight: 700;
-  color: #fff;
+  color: #0A0A0A; 
   font-family: "Poppins", sans-serif;
 }
 
@@ -1096,7 +1096,7 @@ main .main-wrapper.demo-06 .hero-area .countdown .single-count-content {
 main .main-wrapper.demo-06 .hero-area .countdown .single-count-content::after {
   content: ':';
   font-size: 54px;
-  color: #fff;
+  color: #0A0A0A; 
   top: 35px;
 }
 
@@ -1115,7 +1115,7 @@ main .main-wrapper.demo-06 .hero-area .countdown .single-count-content::after {
 
 main .main-wrapper.demo-06 .hero-area .countdown .single-count-content .count {
   font-family: "Poppins", sans-serif;
-  color: #fff;
+  color: #0A0A0A; 
   font-size: 60px;
   font-weight: 700;
 }
@@ -1152,7 +1152,7 @@ main .main-wrapper.demo-06 .team-area .section-title h1 {
   font-size: 26px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #fff;
+  color: #0A0A0A; 
   padding-bottom: 7px;
   margin-bottom: 40px;
   position: relative;
@@ -1175,7 +1175,7 @@ main .main-wrapper.demo-06 .team-area .section-title h1::after {
   position: absolute;
   width: 30px;
   height: 1px;
-  background: #fff;
+  background: #0A0A0A; 
   bottom: 0;
   left: 0;
 }
@@ -1185,7 +1185,7 @@ main .main-wrapper.demo-06 .team-area .section-title h2 {
   font-size: 45px;
   line-height: 55px;
   font-weight: 45px;
-  color: #fff;
+  color: #0A0A0A; 
   margin-bottom: 50px;
 }
 
@@ -1281,7 +1281,7 @@ main .main-wrapper.demo-06 .team-area .team-wrapper .team-item .team-img .social
 
 main .main-wrapper.demo-06 .team-area .team-wrapper .team-item .team-img .social-links li a {
   font-size: 18px;
-  color: #0A0A0A;
+  color: #0A0A0A; 
 }
 
 main .main-wrapper.demo-06 .team-area .team-wrapper .team-item .team-img .social-links li a:hover {
@@ -1297,7 +1297,7 @@ main .main-wrapper.demo-06 .team-area .team-wrapper .team-item:hover .team-img .
 main .main-wrapper.demo-06 .team-area .team-wrapper .team-item .team-info h4 {
   font-size: 24px;
   font-weight: 700;
-  color: #fff;
+  color: #0A0A0A;
   font-family: "Poppins", sans-serif;
 }
 
@@ -1314,7 +1314,7 @@ main .footer {
 
 main .footer p {
   font-family: "Space Mono", sans-serif;
-  color: rgba(255, 255, 255, 0.7);
+  color: #0A0A0A;
 }
 
 @media (max-width: 767px) {
