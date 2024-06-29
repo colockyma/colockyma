@@ -1085,6 +1085,7 @@ main .main-wrapper.demo-06 .hero-area p {
 
 main .main-wrapper.demo-06 .hero-area .countdown .single-count-content {
   display: -webkit-box;
+  color: #0A0A0A;     
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
